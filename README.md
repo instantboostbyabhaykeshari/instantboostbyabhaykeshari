@@ -4,6 +4,8 @@
 
 ### Software Developer · Backend & AI Applications
 
+[![Animated roles](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer;Backend+Engineer;Full-Stack+Developer;AI+%26+Agentic+Systems+Builder)](https://github.com/DenverCoder1/readme-typing-svg)
+
 I build web products, backend services, and AI-powered tools that solve practical problems.
 
 [LinkedIn](https://www.linkedin.com/in/abhay-keshari-234966280/) · [LeetCode](https://leetcode.com/u/abhaykeshari/) · [Email](mailto:abhaykeshari591@gmail.com)
@@ -48,6 +50,17 @@ A JavaScript weather application from my pinned GitHub projects.
 
 **Built with:** JavaScript  
 **Links:** [Repository](https://github.com/instantboostbyabhaykeshari/Weather-App)
+
+## Live GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=instantboostbyabhaykeshari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=instantboostbyabhaykeshari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages on GitHub" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=instantboostbyabhaykeshari&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ## Experience
 
