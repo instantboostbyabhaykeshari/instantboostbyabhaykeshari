@@ -1,18 +1,12 @@
-<!--
-GitHub profile README
-Create a public repository named instantboostbyabhaykeshari and add this file as README.md.
-Replace the project links below with the corresponding repository URLs before publishing.
--->
-
 <div align="center">
 
 # Abhay Keshari
 
-### Software Engineer | Backend, Full-Stack & AI Systems
+### Software Developer · Backend & AI Applications
 
-Building reliable web products and practical AI-powered tools.
+I build web products, backend services, and AI-powered tools that solve practical problems.
 
-[LinkedIn](https://www.linkedin.com/in/abhay-keshari-234966280/) · [Email](mailto:abhaykeshari591@gmail.com) · [GitHub](https://github.com/instantboostbyabhaykeshari)
+[LinkedIn](https://www.linkedin.com/in/abhay-keshari-234966280/) · [LeetCode](https://leetcode.com/u/abhaykeshari/) · [Email](mailto:abhaykeshari591@gmail.com)
 
 </div>
 
@@ -20,60 +14,73 @@ Building reliable web products and practical AI-powered tools.
 
 ## About
 
-- Mechatronics and Automation Engineering student at **IIIT Bhagalpur** (2023–2027), currently at **8.08/10 CGPA**.
-- Software Development Engineering Intern at **IIIT Bhagalpur** (May–August 2025), where I shipped features for the institute website and worked across APIs, databases, performance, and deployment.
-- Interested in backend engineering, full-stack development, and agentic AI systems.
-- Solved **600+ problems** across LeetCode, Codeforces, CodeChef, and GeeksforGeeks.
-- **Top 7 finalist** at Hack4Bihar 2025; also placed in the top 10 at the Smart India Hackathon internal round.
+I’m pursuing a **B.Tech in Mechatronics and Automation Engineering at IIIT Bhagalpur** (2023–2027). My experience includes developing production features for the institute website and building full-stack applications with AI-assisted search and agent workflows.
 
-## Featured Projects
+I’m especially interested in backend engineering, retrieval-augmented generation, and dependable AI applications. I’ve solved **600+ DSA problems** and enjoy turning ideas into useful, well-structured software.
 
-### CodeRepair
-An AI-assisted GitHub issue resolution system. LangGraph agents analyze repository context, propose targeted code changes, and run tests before preparing pull requests. Built with Next.js, FastAPI, Gemini, and PostgreSQL.
+## Featured Work
 
-**[Repository](REPLACE_WITH_CODEREPAIR_REPO_URL)** · **[Live demo](REPLACE_WITH_CODEREPAIR_DEMO_URL)**
+### AskCoder · AI-powered developer knowledge sharing
+A Q&A platform that combines discussion features with retrieval-augmented answers grounded in existing content.
 
-### AskCoder
-A developer Q&A platform with authenticated discussions, voting, comments, and search. Uses retrieval-augmented generation to ground Gemini responses in existing discussions. Built with Next.js, Express.js, MySQL, and LangChain.
+**Built with:** Next.js · Express.js · MySQL · LangChain · Gemini · RAG  
+**Links:** Repository link pending verification · Live demo link pending verification
 
-**[Repository](REPLACE_WITH_ASKCODER_REPO_URL)** · **[Live demo](REPLACE_WITH_ASKCODER_DEMO_URL)**
+### CodeRepair · Agentic issue resolution
+An agent workflow that analyzes repository context, proposes targeted fixes, and runs tests to validate changes before preparing a pull request.
 
-### MCP Expense Tracker
-A Python MCP server for managing categorized expenses with structured tools and persistent Neon PostgreSQL storage. Built with FastMCP and Psycopg.
+**Built with:** Next.js · FastAPI · LangGraph · Gemini · PostgreSQL  
+**Links:** Repository link pending verification · Live demo link pending verification
 
-**[Repository](REPLACE_WITH_MCP_EXPENSE_TRACKER_REPO_URL)**
+### MCP Expense Tracker · Structured expense tools
+A Python MCP server for adding, retrieving, and deleting categorized expense records, backed by PostgreSQL.
+
+**Built with:** Python · FastMCP · Psycopg · Neon PostgreSQL  
+**Links:** Repository link pending verification
 
 ### Greenland Public School Website
-Designed, developed, and deployed a responsive website for Greenland Public School, Patna, as a freelance project.
+A responsive school website delivered as a freelance design, development, and deployment project.
 
-**[Project link](REPLACE_WITH_SCHOOL_WEBSITE_URL)**
+**Links:** Public project link pending verification
 
-## Skills
+### Weather App
+A JavaScript weather application from my pinned GitHub projects.
 
-**Languages:** C++, JavaScript, Python, SQL  
-**Frontend & backend:** React, Next.js, Node.js, Express.js, FastAPI, REST APIs  
-**AI & LLMs:** LangChain, LangGraph, Gemini, RAG, Model Context Protocol (MCP)  
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis, ChromaDB  
-**Tools & platforms:** Git, GitHub, Docker, Postman, Vercel, Render, CI/CD  
-**Foundations:** Data structures and algorithms, OOP, DBMS, operating systems
+**Built with:** JavaScript  
+**Links:** [Repository](https://github.com/instantboostbyabhaykeshari/Weather-App)
 
 ## Experience
 
 **Software Development Engineering Intern · IIIT Bhagalpur**  
-*May 2025 – August 2025 · Bhagalpur, India*
+*May–August 2025 · Bhagalpur, India*
 
-- Developed and shipped production features for the official institute website using Next.js, Node.js, Express.js, and MongoDB.
-- Built REST APIs and database-backed services; applied server-side rendering, lazy loading, and API caching to improve performance.
-- Collaborated through Git/GitHub workflows and deployed features with Vercel and CI/CD.
+- Shipped production features for the official institute website using Next.js, Node.js, Express.js, and MongoDB.
+- Built REST APIs and database-backed services; used server-side rendering, lazy loading, and API caching to improve performance.
+- Collaborated through Git/GitHub workflows and supported CI/CD deployments through Vercel.
+
+## Skills
+
+| Area | Technologies |
+| --- | --- |
+| Languages | C++, JavaScript, Python, SQL |
+| Frontend & backend | React.js, Next.js, Node.js, Express.js, FastAPI, REST APIs |
+| AI & LLM applications | LangChain, LangGraph, Gemini, RAG, Model Context Protocol (MCP) |
+| Data | MySQL, PostgreSQL, MongoDB, ChromaDB, Redis |
+| Tools | Git, GitHub, Docker, Postman, Vercel, Render, CI/CD |
+| Computer science | Data structures and algorithms, OOP, DBMS, operating systems |
 
 ## Achievements
 
-- **Top 7 of 1,000+ teams**, Hack4Bihar 2025 National Hackathon, with an AI/ML waste-management solution.
-- **Top 10 of 35+ teams**, Smart India Hackathon internal round.
-- Solved **600+ coding problems** across competitive programming platforms; earned the Knight badge on LeetCode.
+- **Hack4Bihar 2025:** Top 7 finalist among 1,000+ teams with an AI/ML waste-management solution.
+- **Smart India Hackathon internal round:** Top 10 among 35+ teams.
+- **Competitive programming:** 600+ problems solved across LeetCode, Codeforces, CodeChef, and GeeksforGeeks; earned the LeetCode Knight badge.
 
-## Let's Connect
+## Currently Exploring
 
-I’m interested in thoughtful engineering, collaborative projects, and opportunities to build useful software.
+Agentic AI · Multi-agent workflows · RAG systems · MCP servers · Scalable backend architecture · System design
 
-[LinkedIn](https://www.linkedin.com/in/abhay-keshari-234966280/) · [Email](mailto:abhaykeshari591@gmail.com)
+## Connect
+
+Open to collaborating on thoughtful software and AI projects.
+
+[LinkedIn](https://www.linkedin.com/in/abhay-keshari-234966280/) · [LeetCode](https://leetcode.com/u/abhaykeshari/) · [Email](mailto:abhaykeshari591@gmail.com)
