@@ -1,14 +1,14 @@
 <div align="center">
 
+![Animated profile banner with cycling developer roles](assets/profile-hero.gif)
+
 # Abhay Keshari
 
 ### Software Developer · Backend & AI Applications
 
-[![Animated roles](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer;Backend+Engineer;Full-Stack+Developer;AI+%26+Agentic+Systems+Builder)](https://github.com/DenverCoder1/readme-typing-svg)
-
 I build web products, backend services, and AI-powered tools that solve practical problems.
 
-[LinkedIn](https://www.linkedin.com/in/abhay-keshari-234966280/) · [LeetCode](https://leetcode.com/u/abhaykeshari/) · [Email](mailto:abhaykeshari591@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/abhay-keshari-234966280/) · [LeetCode](https://leetcode.com/u/abhaykeshari/) · [abhaykeshari591@gmail.com](mailto:abhaykeshari591@gmail.com)
 
 </div>
 
@@ -62,6 +62,16 @@ A JavaScript weather application from my pinned GitHub projects.
   <img height="165" src="https://streak-stats.demolab.com?user=instantboostbyabhaykeshari&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
+### Contribution animation
+
+The light and dark snake GIFs are generated and refreshed daily by the included GitHub Actions workflow. They appear after that workflow has run once.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/instantboostbyabhaykeshari/instantboostbyabhaykeshari/output/github-contribution-grid-snake-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/instantboostbyabhaykeshari/instantboostbyabhaykeshari/output/github-contribution-grid-snake-light.gif" />
+  <img alt="Animated snake moving across my GitHub contribution graph" src="https://raw.githubusercontent.com/instantboostbyabhaykeshari/instantboostbyabhaykeshari/output/github-contribution-grid-snake-dark.gif" />
+</picture>
+
 ## Experience
 
 **Software Development Engineering Intern · IIIT Bhagalpur**  
@@ -96,4 +106,5 @@ Agentic AI · Multi-agent workflows · RAG systems · MCP servers · Scalable ba
 
 Open to collaborating on thoughtful software and AI projects.
 
-[LinkedIn](https://www.linkedin.com/in/abhay-keshari-234966280/) · [LeetCode](https://leetcode.com/u/abhaykeshari/) · [Email](mailto:abhaykeshari591@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/abhay-keshari-234966280/) · [LeetCode](https://leetcode.com/u/abhaykeshari/) · [abhaykeshari591@gmail.com](mailto:abhaykeshari591@gmail.com)
+
