@@ -1,15 +1,18 @@
+<!--
+GitHub profile README
+Create a public repository named instantboostbyabhaykeshari and add this file as README.md.
+Replace the project links below with the corresponding repository URLs before publishing.
+-->
+
 <div align="center">
 
 # Abhay Keshari
 
-**Software Engineer | AI Engineer | Full-Stack Developer**
+### Software Engineer | Backend, Full-Stack & AI Systems
 
-Building reliable web applications and practical AI-powered systems.
+Building reliable web products and practical AI-powered tools.
 
-[LinkedIn](https://www.linkedin.com/in/abhaykeshari/) ·
-[GitHub](https://github.com/instantboostbyabhaykeshari) ·
-[LeetCode](https://leetcode.com/u/abhaykeshari/) ·
-[AWS Builder Center](https://builder.aws.com/community/@abhayiiitbh?tab=badges)
+[LinkedIn](https://www.linkedin.com/in/abhay-keshari-234966280/) · [Email](mailto:abhaykeshari591@gmail.com) · [GitHub](https://github.com/instantboostbyabhaykeshari)
 
 </div>
 
@@ -17,100 +20,60 @@ Building reliable web applications and practical AI-powered systems.
 
 ## About
 
-I'm a final-year B.Tech student in **Mechatronics and Automation Engineering at IIIT Bhagalpur** (2023–2027), interested in software engineering, backend development, and applied AI.
+- Mechatronics and Automation Engineering student at **IIIT Bhagalpur** (2023–2027), currently at **8.08/10 CGPA**.
+- Software Development Engineering Intern at **IIIT Bhagalpur** (May–August 2025), where I shipped features for the institute website and worked across APIs, databases, performance, and deployment.
+- Interested in backend engineering, full-stack development, and agentic AI systems.
+- Solved **600+ problems** across LeetCode, Codeforces, CodeChef, and GeeksforGeeks.
+- **Top 7 finalist** at Hack4Bihar 2025; also placed in the top 10 at the Smart India Hackathon internal round.
 
-I enjoy taking ideas from design to implementation — building APIs, full-stack applications, and AI workflows that solve practical problems.
-
-- Currently focused on **backend engineering, LLM applications, RAG, and agentic systems**.
-- Software Development Intern at **IIIT Bhagalpur** (May–August 2025).
-- Solved **600+ DSA problems** across LeetCode, Codeforces, CodeChef, and GeeksforGeeks.
-- Open to opportunities in **Software Development, Backend Engineering, and Applied AI**.
-
----
-
-## Selected Projects
+## Featured Projects
 
 ### CodeRepair
-*Agentic GitHub Issue Resolution*
+An AI-assisted GitHub issue resolution system. LangGraph agents analyze repository context, propose targeted code changes, and run tests before preparing pull requests. Built with Next.js, FastAPI, Gemini, and PostgreSQL.
 
-**LangGraph · Gemini · Next.js · FastAPI · PostgreSQL**
-
-- Built an AI-powered GitHub issue resolution system using LangGraph agents to analyze repository context, identify affected files, and generate targeted code fixes.
-- Integrated automated test execution to validate generated changes before creating GitHub pull requests.
-- Developed a Next.js and FastAPI interface to stream agent progress and monitor issue-resolution workflows.
+**[Repository](REPLACE_WITH_CODEREPAIR_REPO_URL)** · **[Live demo](REPLACE_WITH_CODEREPAIR_DEMO_URL)**
 
 ### AskCoder
-*Employee Knowledge-Sharing & Q&A Platform*
+A developer Q&A platform with authenticated discussions, voting, comments, and search. Uses retrieval-augmented generation to ground Gemini responses in existing discussions. Built with Next.js, Express.js, MySQL, and LangChain.
 
-**Next.js · Express.js · Gemini · MySQL · LangChain · RAG**
-
-- Engineered RESTful backend services using Node.js, Express.js, and MySQL, with JWT-based authentication and Sequelize ORM.
-- Integrated LangChain-based RAG and Gemini to retrieve relevant knowledge and generate context-aware answers from existing discussions.
-- Developed APIs for questions, answers, voting, comments, and search to support authenticated collaboration and knowledge discovery.
-
-[Live Demo](https://askcoder.vercel.app)
+**[Repository](REPLACE_WITH_ASKCODER_REPO_URL)** · **[Live demo](REPLACE_WITH_ASKCODER_DEMO_URL)**
 
 ### MCP Expense Tracker
-*Tool-Based Expense Management Server*
+A Python MCP server for managing categorized expenses with structured tools and persistent Neon PostgreSQL storage. Built with FastMCP and Psycopg.
 
-**Python · FastMCP · PostgreSQL · Neon · Psycopg**
-
-- Built a Python MCP server using FastMCP to manage expense records through structured tools for adding, retrieving, and deleting transactions.
-- Integrated Neon PostgreSQL using Psycopg for persistent storage and management of categorized financial transactions.
+**[Repository](REPLACE_WITH_MCP_EXPENSE_TRACKER_REPO_URL)**
 
 ### Greenland Public School Website
-*Freelance Web Development*
+Designed, developed, and deployed a responsive website for Greenland Public School, Patna, as a freelance project.
 
-- Delivered a responsive website for Greenland Public School, Patna.
-- Handled the website's design, development, and deployment.
+**[Project link](REPLACE_WITH_SCHOOL_WEBSITE_URL)**
 
----
+## Skills
+
+**Languages:** C++, JavaScript, Python, SQL  
+**Frontend & backend:** React, Next.js, Node.js, Express.js, FastAPI, REST APIs  
+**AI & LLMs:** LangChain, LangGraph, Gemini, RAG, Model Context Protocol (MCP)  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, ChromaDB  
+**Tools & platforms:** Git, GitHub, Docker, Postman, Vercel, Render, CI/CD  
+**Foundations:** Data structures and algorithms, OOP, DBMS, operating systems
 
 ## Experience
 
-**Software Development Intern — IIIT Bhagalpur**  
-*May 2025 – August 2025*
+**Software Development Engineering Intern · IIIT Bhagalpur**  
+*May 2025 – August 2025 · Bhagalpur, India*
 
-- Developed and shipped production web features for the institute's official website using Next.js, Node.js, Express.js, and MongoDB.
-- Built RESTful APIs and integrated MongoDB-backed services; used SSR, lazy loading, and API caching to improve application performance.
-- Managed Git/GitHub workflows and CI/CD deployments through Vercel while collaborating with developers and stakeholders.
+- Developed and shipped production features for the official institute website using Next.js, Node.js, Express.js, and MongoDB.
+- Built REST APIs and database-backed services; applied server-side rendering, lazy loading, and API caching to improve performance.
+- Collaborated through Git/GitHub workflows and deployed features with Vercel and CI/CD.
 
----
+## Achievements
 
-## Technical Skills
+- **Top 7 of 1,000+ teams**, Hack4Bihar 2025 National Hackathon, with an AI/ML waste-management solution.
+- **Top 10 of 35+ teams**, Smart India Hackathon internal round.
+- Solved **600+ coding problems** across competitive programming platforms; earned the Knight badge on LeetCode.
 
-| Area | Technologies |
-|---|---|
-| **Languages** | C++, JavaScript, Python, SQL |
-| **Frontend & Backend** | React.js, Next.js, Node.js, Express.js, FastAPI, REST APIs |
-| **Databases** | MySQL, PostgreSQL, MongoDB, ChromaDB, Redis |
-| **AI & LLMs** | LangChain, LangGraph, Gemini, RAG, Model Context Protocol (MCP) |
-| **Tools & Platforms** | Git, GitHub, Docker, Postman, Vercel, Render, CI/CD |
-| **Core CS** | DSA, OOP, DBMS, Operating Systems |
+## Let's Connect
 
----
+I’m interested in thoughtful engineering, collaborative projects, and opportunities to build useful software.
 
-## Highlights
-
-- **600+** coding problems solved across competitive programming platforms.
-- **LeetCode Knight** badge.
-- **Hack4Bihar 2025:** Top 7 finalist among 1,000+ teams; developed an AI/ML-powered waste-management solution.
-- **Smart India Hackathon:** Top 10 among 35+ teams in the internal round.
-
----
-
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=instantboostbyabhaykeshari&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/instantboostbyabhaykeshari)
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=instantboostbyabhaykeshari&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9)](https://github.com/instantboostbyabhaykeshari)
-
-</div>
-
----
-
-<div align="center">
-
-**Thanks for visiting. Always learning, building, and improving.**
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/abhay-keshari-234966280/) · [Email](mailto:abhaykeshari591@gmail.com)
